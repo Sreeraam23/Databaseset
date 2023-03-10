@@ -19,7 +19,7 @@ public class DBtest {
 		// Database Username
 		public static String DB_USER = "root";
 		// Database Password
-		public static String DB_PASSWORD = "Aacker@2304";
+		public static String DB_PASSWORD = "<Your Password>";
 
 		@BeforeTest
 		public void setUp() throws Exception {
